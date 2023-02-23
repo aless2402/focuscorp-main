@@ -1,0 +1,17 @@
+.symbol.symbol-20px > img {
+    width: 20px;
+    height: 20px;
+  }
+  .rounded-1 {
+    border-radius: .425rem !important;
+  }
+  img, svg {
+    vertical-align: middle;
+  }
+  .pointer{
+    cursor: pointer !important;
+  }
+  .unset{
+    all: unset !important;
+  }
+  
