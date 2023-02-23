@@ -5,7 +5,7 @@ use App\Models\BonusModel;
 
 class D_bonos extends BaseController
 {   
-    public function index()
+    public function index() 
     {
         $session = session();
         $db = \Config\Database::connect();
